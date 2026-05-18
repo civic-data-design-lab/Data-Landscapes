@@ -1,0 +1,280 @@
+search_term,master_term,source
+"['abandoned cropland', 'abandoned croplands']",abandoned cropland,Project Drawdown
+"['abandoned farmland', 'abandoned farmlands']",abandoned farmland,Project Drawdown
+"['accountable','accountability']",accountability,Global Commons Alliance
+['afforestation'],afforestation,IPCC
+"['agricultural', 'agriculture']",agriculture,Climate Tech VC
+"['agroecological', 'agroecology']",agroecology,ReGeneration
+['agroforestry'],agroforestry,Project Drawdown
+['agtech'],agtech,Climate Tech VC
+['alternative cement'],alternative cement,Project Drawdown
+"['alternative protein', 'alternative proteins']",alternative protein,OneEarth
+['animal feed'],animal feed,Climate Tech VC
+['aquaculture'],aquaculture,Climate Tech VC
+['bamboo production'],bamboo production,Project Drawdown
+['bio-based'],bio-based,IPCC
+['biochar'],biochar,Project Drawdown
+['biocultural'],biocultural,CAKE
+['biodiversity'],biodiversity,IDFC - Adaptation
+"['biofuels', 'biofuel']",biofuel,Climate Tech VC
+['biogas'],biogas,Project Drawdown
+['biomass'],biomass,Project Drawdown
+"['bioplastic', 'bioplastics']",bioplastic,Project Drawdown
+['black carbon'],black carbon,IPCC
+['blue carbon'],blue carbon,Blue Carbon
+"['blue forest', 'blue forests']",blue forest,Blue Carbon
+['bottom trawling'],bottom trawling,Speed&Scale
+['carbon capture'],carbon capture,IPCC
+['carbon farming'],carbon farming,OneEarth
+"['carbon market', 'carbon markets']",carbon market,Wikipedia
+['carbon negative'],carbon negative,Speed&Scale
+['carbon price'],carbon price,IPCC
+"['carbon sequester', 'carbon sequestering', 'carbon sequestration']",carbon sequestering,IPCC
+['carbon storage'],carbon storage,IPCC
+['carbon transformation'],carbon transformation,Wikipedia
+['carbon-intensive'],carbon-intensive,IPCC
+['carbon-neutral'],carbon-neutral,Speed&Scale
+"['carpool', 'carpooling']",carpool,Project Drawdown
+['circular economy'],circular economy,Wikipedia
+['clean cooking'],clean cooking,Project Drawdown
+"['clean cookstove', 'clean cookstoves']",clean cookstove,Project Drawdown
+['clean energy'],clean energy,Climate Tech VC
+['clean power'],clean power,Climate Tech VC
+"['clean-tech', 'cleantech']",clean-tech,Climate Tech VC
+['climate'],climate,All
+['climate-friendly'],climate-friendly,Climate Tech VC
+"['climate-resilience', 'climate-resiliency', 'climate-resilient']",climate-resilience,IPCC
+['climate-sensitive'],climate-sensitive,Climate Tech VC
+['climate-smart'],climate-smart,Wikipedia
+"['coastal ecosystem', 'coastal ecosystems']",coastal ecosystem,Blue Carbon
+"['coastal livelihood', 'coastal livelihoods']",coastal livelihood,IPCC
+['coastal management'],coastal management,IPCC
+['coastal protection'],coastal protection,IDFC - Adaptation
+"['coastal sink', 'coastal sinks']",coastal sink,Project Drawdown
+"['composte', 'composting']",composte,Project Drawdown
+"['cool roof', 'cool roofs']",cool roof,Project Drawdown
+['coral restoration'],coral restoration,OneEarth
+['corporate accountability'],corporate accountability,Global Commons Alliance
+"['corporate commitment', 'corporate commitments']",corporate commitment,Global Commons Alliance
+"['corporate target', 'corporate targets']",corporate target,Global Commons Alliance
+['corporate transparency'],corporate transparency,Global Commons Alliance
+['crop failure'],crop failure,OneEarth
+['crop optimization'],crop optimization,OneEarth
+"['cropland', 'croplands']",cropland,OneEarth
+"['cultivar improvement', 'cultivar improvements']",cultivar improvement,IPCC
+"['decarbonization', 'decarbonize']",decarbonization,IPCC
+"['deforest', 'deforestation']",deforest,Global Commons Alliance
+"['demotorization', 'demotorize']",demotorization,IPCC
+"['desalinating', 'desalination']",desalinating,IPCC
+['desertification'],desertification,ReGeneration
+['disease control'],disease control,IPCC
+"['disease vector', 'disease vectors']",disease vector,IPCC
+['distributed energy'],distributed energy,Project Drawdown
+['district heating'],district heating,Project Drawdown
+"['drainage system', 'drainage systems']",drainage system,IDFC - Adaptation
+"['drought', 'droughts']",drought,IPCC
+['dynamic glass'],dynamic glass,Project Drawdown
+['e-mobility'],e-mobility,Project Drawdown
+['eco-friendly'],eco-friendly,Climate Tech VC
+"['ecological corridor', 'ecological corridors']",ecological corridor,IPCC
+['ecosystem restoration'],ecosystem restoration,ReGeneration
+"['ecosystem service', 'ecosystem services']",ecosystem service,Wikipedia
+['ecosystem-based'],ecosystem-based,IDFC - Adaptation
+['efficient aviation'],efficient aviation,Project Drawdown
+['efficient shipping'],efficient shipping,Project Drawdown
+['electric mobility'],electric mobility,Project Drawdown
+"['electric train', 'electric trains']",electric train,Project Drawdown
+"['electric truck', 'electric trucks']",electric truck,Project Drawdown
+"['electric vehicle', 'electric vehicles', 'ev', 'evs']",electric vehicle,Climate Tech VC
+['electricity'],electricity,Project Drawdown
+"['electrification', 'electrified']",electrification,Project Drawdown
+"['electrolyzed', 'electrolyzer']",electrolyzed,Systems Change Lab
+"['emission', 'emissions']",emission,IPCC
+['energy access'],energy access,Systems Change Lab
+['energy efficiency'],energy efficiency,CPI - Global Landscape Climate Finance
+['energy independence'],energy independence,IPCC
+['energy security'],energy security,IPCC
+['energy storage'],energy storage,Project Drawdown
+['energy transition'],energy transition,Systems Change Lab
+"['engineered sink', 'engineered sinks']",engineered sink,Project Drawdown
+['environmental accountability'],environmental accountability,Global Commons Alliance
+['environmental engineering'],environmental engineering,Wikipedia
+"['environmental externalities', 'environmental externality']",environmental externality,Systems Change Lab
+['environmental justice'],environmental justice,Wikipedia
+['environmentally friendly'],environmentally friendly,Project Drawdown
+['extreme weather'],extreme weather,IDFC - Adaptation
+"['fair trade', 'fairtrade']",fair trade,OneEarth
+"['farmland', 'farmlands']",farmland,OneEarth
+['fiber sourcing'],fiber sourcing,OneEarth
+"['fibershed', 'fibersheds']",fibershed,OneEarth
+['financial inclusion'],financial inclusion,Systems Change Lab
+['fire-resilient'],fire-resilient,CAKE
+['fleet management'],fleet management,Climate Tech VC
+['flooding'],flooding,CAKE
+"['floodplain', 'floodplains']",floodplain,CAKE
+"['fodder crop', 'fodder crops']",fodder crop,IDFC - Adaptation
+['food security'],food security,IPCC
+['food waste'],food waste,Project Drawdown
+"['food-borne disease', 'food-borne diseases', 'foodborne disease', 'foodborne diseases']",food-borne disease,IPCC
+['forest carbon'],forest carbon,Global Commons Alliance
+['forest degradation'],forest degradation,Global Commons Alliance
+['forest health'],forest health,OneEarth
+['forest restoration'],forest restoration,OneEarth
+['forest tenure'],forest tenure,Project Drawdown
+"['gene bank', 'gene banks']",gene bank,IPCC
+['geoelectricity'],geoelectricity,Project Drawdown
+['geothermal'],geothermal,Project Drawdown
+['ghg'],ghg,Wikipedia
+['global warming'],global warming,Wikipedia
+['grassland protection'],grassland protection,Project Drawdown
+"['green building', 'green buildings']",green building,Climate Tech VC
+['green cement'],green cement,OneEarth
+"['green consumer', 'green consumers']",green consumer,Climate Tech VC
+['green infrastructure'],green infrastructure,IPCC
+"['green job',''green jobs']",green job,Wikipedia
+"['green roof', 'green roofs']",green roof,Project Drawdown
+['green steel'],green steel,Speed&Scale
+"['green tech', 'greentech']",green tech,Climate Tech VC
+"['green textile', 'green textiles']",green textile,OneEarth
+"['greenhouse', 'greenhouses']",greenhouse,Project Drawdown
+['grid flexibility'],grid flexibility,Project Drawdown
+['health adaptation'],health adaptation,IPCC
+"['health impact', 'health impacts']",health impact,IPCC
+['healthy feed'],healthy feed,OneEarth
+"['heat pump', 'heat pumps']",heat pump,Project Drawdown
+"['heat-wave', 'heat-waves', 'heatwave']",heat-wave,IPCC
+['high-performance glass'],high-performance glass,Project Drawdown
+['hydrogen'],hydrogen,IPCC
+"['hydroponic', 'hydroponics']",hydroponic,Climate Tech VC
+['hydropower'],hydropower,Project Drawdown
+['indigenous knowledge'],indigenous knowledge,OneEarth
+['indigenous tenure'],indigenous tenure,OneEarth
+['industrial pollution'],industrial pollution,IDFC - Adaptation
+"['infectious disease', 'infectious diseases']",infectious disease,IPCC
+['insulation'],insulation,Project Drawdown
+['irrigation'],irrigation,Project Drawdown
+['just transition'],just transition,OECD
+"['land buffer', 'land buffers']",land buffer,OneEarth
+['land conservation'],land conservation,ReGeneration
+"['land corridor', 'land corridors']",land corridor,OneEarth
+['land planning'],land planning,IPCC
+['land restoration'],land restoration,ReGeneration
+"['land sink', 'land sinks']",land sink,Project Drawdown
+['land-use'],land-use,Project Drawdown
+"['led light', 'led lights', 'led lighting']",led light,Project Drawdown
+"['local source', 'locally sourced']",local source,OneEarth
+['low-carbon'],low-carbon,CPI - Global Landscape Climate Finance
+['low-emission'],low-emission,IPCC
+['low-flow'],low-flow,Project Drawdown
+['macroalgae'],macroalgae,Project Drawdown
+['managed grazing'],managed grazing,Project Drawdown
+"['marine corridor', 'marine corridors']",marine corridor,OneEarth
+['marine protection'],marine protection,OneEarth
+['methane'],methane,Wikipedia
+"['microgrid', 'microgrids']",microgrid,Project Drawdown
+['mine rehabilitation'],mine rehabilitation,IDFC - Adaptation
+['natural capital'],natural capital,Global Commons Alliance
+"['natural disaster', 'natural disasters']",natural disaster,IDFC - Adaptation
+['nature benchmark'],nature benchmark,Global Commons Alliance
+['nature capital'],nature capital,Global Commons Alliance
+['nature positive'],nature positive,Global Commons Alliance
+"['nature target', 'nature targets']",nature target,Global Commons Alliance
+['nature-based'],nature-based,Global Commons Alliance
+['net-negative'],net-negative,Global Commons Alliance
+['net-zero'],net-zero,Project Drawdown
+['no-deforestation'],no-deforestation,Global Commons Alliance
+['nuclear power'],nuclear power,Project Drawdown
+['nutrient management'],nutrient management,Project Drawdown
+['ocean alkalinization'],ocean alkalinization,OneEarth
+"['ocean farm', 'ocean farming', 'ocean farms']",ocean farm,Project Drawdown
+['ocean power'],ocean power,Project Drawdown
+"['ocean sediment', 'ocean sediments']",ocean sediment,Blue Carbon
+['ocean shipping'],ocean shipping,Project Drawdown
+"['ocean sink', 'ocean sinks']",ocean sink,Project Drawdown
+['offshore wind'],offshore wind,OneEarth
+['organic farming'],organic farming,Climate Tech VC
+['pastoralism'],pastoralism,OneEarth
+['peat'],peat,Project Drawdown
+"['peatland', 'peatlands']",peatland,Project Drawdown
+"['perennial crop', 'perennial crops']",perennial crop,Project Drawdown
+['permafrost'],permafrost,Speed&Scale
+"['photovoltaic', 'photovoltaics']",photovoltaic,Project Drawdown
+"['plant disease', 'plant diseases']",plant disease,IPCC
+['plant-based'],plant-based,Project Drawdown
+['plant-rich'],plant-rich,Project Drawdown
+['pollution control'],pollution control,IDFC - Adaptation
+"['protected ecosystem', 'protected ecosystems']",protected ecosystem,IDFC - Adaptation
+['public transit'],public transit,Project Drawdown
+"['public transport', 'public transportation']",public transport,Project Drawdown
+"['recyclability', 'recyclable']",recyclability,Wikipedia
+['regenerative farming'],regenerative farming,Project Drawdown
+"['recycle', 'recycled', 'recycler', 'recycles', 'recycling']",recycle,Wikipedia
+['reforestation'],reforestation,IPCC
+"['refrigerant', 'refrigerants']",refrigerant,Project Drawdown
+"['renewable', 'renewables']",renewable,CPI - Global Landscape Climate Finance
+['renewable energy'],renewable energy,CPI - Global Landscape Climate Finance
+['renewable resource'],renewable resource,CPI - Global Landscape Climate Finance
+['resilient infrastructure'],resilient infrastructure,IDFC - Adaptation
+['rewilding'],rewilding,ReGeneration
+"['rice farm', 'rice farms']",rice farm,Project Drawdown
+"['ride share', 'ride sharing']",ride share,Climate Tech VC
+"['riparian zone', 'riparian zones']",riparian zone,OneEarth
+['rotational grazing'],rotational grazing,OneEarth
+"['science-based target', 'science-based targets']",science-based target,Global Commons Alliance
+['seafloor'],seafloor,Project Drawdown
+['seaweed'],seaweed,Blue Carbon
+['sediment carbon'],sediment carbon,Blue Carbon
+"['seed bank', 'seed banks']",seed bank,IPCC
+['seed diversity'],seed diversity,OneEarth
+['shoreline erosion'],shoreline erosion,Blue Carbon
+['silvopasture'],silvopasture,Project Drawdown
+['single-use'],single-use,Speed&Scale
+['smallholder'],smallholder,Project Drawdown
+"['smart grid', 'smart grids']",smart grid,IPCC
+"['smart thermostat', 'smart thermostats']",smart thermostat,Project Drawdown
+['soil erosion'],soil erosion,IDFC - Adaptation
+['soil remediation'],soil remediation,IDFC - Adaptation
+['solar'],solar,CPI - Global Landscape Climate Finance
+['species migration'],species migration,IPCC
+['stewardship'],stewardship,Global Commons Alliance
+['super-pollulant'],super-pollulant,Speed&Scale
+['sustainable apparel'],sustainable apparel,Wikipedia
+"['sustainable crop', 'sustainable crops']",sustainable crop,Wikipedia
+"['sustainable development goal', 'sustainable development goals', 'sdg']",sustainable development goal,IPCC
+"['sustainable fertilizer', 'sustainable fertilizers']",sustainable fertilizer,OneEarth
+['sustainable fish'],sustainable fish,IDFC - Adaptation
+['sustainable future'],sustainable future,Wikipedia
+['sustainable infrastructure'],sustainable infrastructure,IDFC - Adaptation
+['sustainable rice'],sustainable rice,Speed&Scale
+['sustainable seafood'],sustainable seafood,OneEarth
+['sustainable fishing'],sustainable fishing,OneEarth
+['synfuel'],synfuel,OneEarth
+"['vector-borne disease', 'vector-borne diseases']",vector-borne disease,IPCC
+"['vertical farm', 'vertical farming']",vertical farm,Wikipedia
+"['walkable cities', 'walkable city']",walkable cities,Project Drawdown
+['waste management'],waste management,IDFC - Adaptation
+['waste reduction'],waste reduction,IPCC
+"['waste to energy', 'waste-to-energy']",waste to energy,Project Drawdown
+"['waste water', 'wastewater']",waste water,IDFC - Adaptation
+['water distribution'],water distribution,Project Drawdown
+['water efficiency'],water efficiency,IPCC
+['water management'],water management,IPCC
+['water preservation'],water preservation,IDFC - Adaptation
+['water purification'],water purification,Climate Tech VC
+['water quality'],water quality,Mazarine Climate Adaptation Taxonomy
+['water security'],water security,IPCC
+['water supply'],water supply,IDFC - Adaptation
+"['water target', 'water targets']",water target,Global Commons Alliance
+"['water-borne disease', 'water-borne diseases', 'waterborne disease', 'waterborne diseases']",water-borne disease,IPCC
+['water-saving'],water-saving,IPCC
+['wave energy'],wave energy,OneEarth
+"['wetland', 'wetlands']",wetland,Project Drawdown
+['wilderness conservation'],wilderness conservation,OneEarth
+['wilderness corridor'],wilderness corridor,OneEarth
+['wilderness protection'],wilderness protection,OneEarth
+['wilderness restoration'],wilderness restoration,OneEarth
+"['wildfire', 'wildfires']",wildfire,IPCC
+['wildlife'],wildlife,OneEarth
+['wind energy'],wind energy,Climate Tech VC
+"['wind turbine', 'wind turbines']",wind turbine,Project Drawdown
+['zero-carbon'],zero-carbon,Systems Change Lab
